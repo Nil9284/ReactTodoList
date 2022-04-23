@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+First clone this repository.
+
+$ git clone https://github.com/kabirbaidhya/react-todo-app.git
+
 ## Available Scripts
 
 In the project directory, you can run:
