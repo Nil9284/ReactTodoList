@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 First clone this repository.
 
-$ git clone https://github.com/kabirbaidhya/react-todo-app.git
+$ git clone https://github.com/Nil9284/ReactTodoList.git
 
 ## Available Scripts
 
